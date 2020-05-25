@@ -1,3 +1,10 @@
+<img src="https://raw.githubusercontent.com/samarth30/IT-Logger-Redux/master/Screenshot%20(216).png"/>
+<img src="https://raw.githubusercontent.com/samarth30/IT-Logger-Redux/master/Screenshot%20(217).png"/>
+
+I created a app using <b>redux</b> in which you can <b>search the task , assign the tasks , and add assignes.</b><br/>
+I have used <b> fake json server api</b> ,the data will be shown and added in<b> db.json file.</b><br/>
+I have used <b>materialize</b> for enhancing the <b>UI</b>.<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
